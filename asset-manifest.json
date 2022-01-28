@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manage-expenses-CRA-exercise/static/css/main.cc41e873.css",
+    "main.js": "/manage-expenses-CRA-exercise/static/js/main.55c3b4db.js",
+    "static/js/787.d2121aa4.chunk.js": "/manage-expenses-CRA-exercise/static/js/787.d2121aa4.chunk.js",
+    "index.html": "/manage-expenses-CRA-exercise/index.html",
+    "main.cc41e873.css.map": "/manage-expenses-CRA-exercise/static/css/main.cc41e873.css.map",
+    "main.55c3b4db.js.map": "/manage-expenses-CRA-exercise/static/js/main.55c3b4db.js.map",
+    "787.d2121aa4.chunk.js.map": "/manage-expenses-CRA-exercise/static/js/787.d2121aa4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc41e873.css",
+    "static/js/main.55c3b4db.js"
+  ]
+}
